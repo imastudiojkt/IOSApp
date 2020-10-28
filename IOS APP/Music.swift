@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+//model music
 class Music{
     var a : String = ""
 }
